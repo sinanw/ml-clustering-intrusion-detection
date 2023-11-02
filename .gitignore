@@ -1,1 +1,2 @@
-data/interim/
+# Ignore intermediary dataset files due to its size
+data/interim/*.csv
