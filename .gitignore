@@ -1,2 +1,3 @@
 # Ignore intermediary dataset files due to its size
 data/interim/*.csv
+data/processed/*.csv
